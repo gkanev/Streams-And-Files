@@ -1,0 +1,1 @@
+Copy the contents of this file to the output file. Second sentence to copy.
